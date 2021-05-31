@@ -1,7 +1,7 @@
 # Fluorescence Tracker App
 This app uses computer vision point tracking to quantify near infrared signals emitted by (ICG) Indocyanine Green during fluorescence angiography.
 
-The following research in colorectal cancer was carried out using this software: ["Digital Dynamic Discrimination of Primary Colorectal Cancer using Systemic Indocyanine Green with Near-infrared Endoscopy"](https://www.researchsquare.com/article/rs-148596/v1) by Jeffrey Dalli et al., UCD Centre for Precision Surgery, School of Medicine, University College Dublin, Ireland (2021).
+The following research in colorectal cancer was carried out using this software: ["Digital Dynamic Discrimination of Primary Colorectal Cancer using Systemic Indocyanine Green with Near-infrared Endoscopy"](https://rdcu.be/clDRi) by Jeffrey Dalli et al., UCD Centre for Precision Surgery, School of Medicine, University College Dublin, Ireland (2021).
 
 ## Requirements
 * MATLAB R2020b (or newer)
