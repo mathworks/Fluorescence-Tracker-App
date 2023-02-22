@@ -24,5 +24,6 @@ This research is also highlighted in the article ["Automating Endoscopic Tissue 
 * [App Building with MATLAB](https://www.mathworks.com/help/matlab/gui-development.html)
 * [Feature Detection and Extraction with MATLAB](https://www.mathworks.com/help/vision/feature-detection-and-extraction.html)
 * [Tracking and Motion Estimation with MATLAB](https://www.mathworks.com/help/vision/tracking-and-motion-estimation.html)
+* [Image Registration with MATLAB](https://www.mathworks.com/help/images/image-registration.html)
 
 [![View Fluorescence Tracker App on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/89679-fluorescence-tracker-app)
