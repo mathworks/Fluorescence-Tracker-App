@@ -13,7 +13,7 @@ This research is also highlighted in the article ["Automating Endoscopic Tissue 
 
 
 ## Installation and Setup
-* Download/navigate to the installer file (<code>Fluorescence Tracker.mlappinstal</code>)
+* Download/navigate to the installer file (<code>Fluorescence Tracker.mlappinstall</code>)
 * Double-click on the installer file
 * Click "Install" when prompted in MATLAB
 * The app will then appear in the APPS tab in MATLAB
