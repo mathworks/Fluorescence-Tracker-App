@@ -20,10 +20,10 @@ This research is also highlighted in the article ["Automating Endoscopic Tissue 
 * The app will then appear in the APPS tab in MATLAB
 * The app source code can then be found in the installation folder specified by your MATLAB Add-Ons Preferences (or by querying the [app installation location](https://www.mathworks.com/help/matlab/ref/matlab.apputil.getinstalledappinfo.html))
 * Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for more information
-* Three reference examples are also included (independent of the app):
-  * <code>FeatureTrackingUsingKLTExample.mlx</code>
-  * <code>ImageRegistrationExample.mlx</code>
-  * <code>FluorescenceClassification.mlx</code>
+* 3 reference examples are available in the <code>howto</code> folder and can be used independent of the app:
+  * <code>FeatureTrackingUsingKLTExample.mlx</code> from [How to Detect and Track Features in a Video with MATLAB](https://www.mathworks.com/videos/series/how-to-video-series-for-biomedical-and-pharmaceutical-applications.html)
+  * <code>ImageRegistrationExample.mlx</code> from [How to Register and Align Features in a Video with MATLAB](https://www.mathworks.com/videos/how-to-register-and-align-features-in-a-video-with-matlab-1687170979668.html)
+  * <code>FluorescenceClassification.mlx</code> from [How to Develop a Machine Learning Classifier with MATLAB](https://www.mathworks.com/videos/how-to-develop-a-machine-learning-classifier-with-matlab-1687171767480.html)
 
 
 ## References
