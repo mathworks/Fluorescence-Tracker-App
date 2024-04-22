@@ -26,7 +26,7 @@ This research is also highlighted in the article ["Automating Endoscopic Tissue 
 ## Reference Examples
 * Also included are several scripts that can be used independent of the Fluorescence Tracker App
 * Navigate to the downloaded/cloned code repository in MATLAB
-* Double-click to open the [MATLAB Project](https://www.mathworks.com/help/matlab/projects.html) <code>AnomalyClassification.prj</code>
+* Double-click on <code>AnomalyClassification.prj</code> to open the [MATLAB Project](https://www.mathworks.com/help/matlab/projects.html)
 * From the <code>PROJECTS SHORTCUTS</code> tab, select "Open How To Scripts" or "Open Webinar Scripts"
 * "How To" scripts contained in the <code>howto</code> folder:
   * <code>FeatureTrackingUsingKLTExample.mlx</code> from [How to Detect and Track Features in a Video with MATLAB](https://www.mathworks.com/videos/series/how-to-video-series-for-biomedical-and-pharmaceutical-applications.html)
