@@ -10,20 +10,32 @@ This research is also highlighted in the article ["Automating Endoscopic Tissue 
 ## Requirements
 * MATLAB R2020b (or newer)
 * Image Processing Toolbox, Computer Vision Toolbox, and Statistics and Machine Learning Toolbox
+* GPU Computing as shown in webinar requires Parallel Computing Toolbox
 * Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for video format requirements
 
 
-## Installation and Setup
+## App Installation and Setup
 * Download/navigate to the installer file (<code>Fluorescence Tracker.mlappinstall</code>)
 * Double-click on the installer file
 * Click "Install" when prompted in MATLAB
 * The app will then appear in the APPS tab in MATLAB
 * The app source code can then be found in the installation folder specified by your MATLAB Add-Ons Preferences (or by querying the [app installation location](https://www.mathworks.com/help/matlab/ref/matlab.apputil.getinstalledappinfo.html))
 * Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for more information
-* 3 reference examples are available in the <code>howto</code> folder and can be used independent of the app:
+
+
+## Reference Examples
+* Also included are several scripts that can be used independent of the Fluorescence Tracker App
+* Navigate to the downloaded/cloned code repository in MATLAB
+* Double-click to open the [MATLAB Project](https://www.mathworks.com/help/matlab/projects.html) <code>AnomalyClassification.prj</code>
+* From the <code>PROJECTS SHORTCUTS</code> tab, select "Open How To Scripts" or "Open Webinar Scripts"
+* "How To" scripts contained in the <code>howto</code> folder:
   * <code>FeatureTrackingUsingKLTExample.mlx</code> from [How to Detect and Track Features in a Video with MATLAB](https://www.mathworks.com/videos/series/how-to-video-series-for-biomedical-and-pharmaceutical-applications.html)
   * <code>ImageRegistrationExample.mlx</code> from [How to Register and Align Features in a Video with MATLAB](https://www.mathworks.com/videos/how-to-register-and-align-features-in-a-video-with-matlab-1687170979668.html)
   * <code>FluorescenceClassification.mlx</code> from [How to Develop a Machine Learning Classifier with MATLAB](https://www.mathworks.com/videos/how-to-develop-a-machine-learning-classifier-with-matlab-1687171767480.html)
+* ["Extracting Features and Classifying Anomalies using Computer Vision and Machine Learning"](https://www.mathworks.com/company/events/webinars/upcoming/extracting-features-and-classifying-anomalies-with-computer-vision-and-ml-4311301.html) scripts contained in the <code>webinar</code> folder:
+  * <code>Part1_ExtractingFeatures.mlx</code>
+  * <code>Part2_ClassifyingAnomalies.mlx</code>
+  * <code>AnomalyClassifier.mlapp</code>
 
 
 ## References
@@ -36,4 +48,4 @@ This research is also highlighted in the article ["Automating Endoscopic Tissue 
 
 [![View Fluorescence Tracker App on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/89679-fluorescence-tracker-app)
 
-_Copyright 2021-2023 The MathWorks, Inc._
+_Copyright 2021-2024 The MathWorks, Inc._
