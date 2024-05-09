@@ -32,7 +32,7 @@ This research is also highlighted in the article ["Automating Endoscopic Tissue 
   * <code>FeatureTrackingUsingKLTExample.mlx</code> from [How to Detect and Track Features in a Video with MATLAB](https://www.mathworks.com/videos/series/how-to-video-series-for-biomedical-and-pharmaceutical-applications.html)
   * <code>ImageRegistrationExample.mlx</code> from [How to Register and Align Features in a Video with MATLAB](https://www.mathworks.com/videos/how-to-register-and-align-features-in-a-video-with-matlab-1687170979668.html)
   * <code>FluorescenceClassification.mlx</code> from [How to Develop a Machine Learning Classifier with MATLAB](https://www.mathworks.com/videos/how-to-develop-a-machine-learning-classifier-with-matlab-1687171767480.html)
-* ["Extracting Features and Classifying Anomalies using Computer Vision and Machine Learning"](https://www.mathworks.com/company/events/webinars/upcoming/extracting-features-and-classifying-anomalies-with-computer-vision-and-ml-4311301.html) scripts contained in the <code>webinar</code> folder:
+* ["Extracting Features and Classifying Anomalies using Computer Vision and Machine Learning"](https://www.mathworks.com/videos/extracting-features-and-classifying-anomalies-using-computer-vision-and-machine-learning-1714481441822.html) scripts contained in the <code>webinar</code> folder:
   * <code>Part1_ExtractingFeatures.mlx</code>
   * <code>Part2_ClassifyingAnomalies.mlx</code>
   * <code>AnomalyClassifier.mlapp</code>
