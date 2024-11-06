@@ -1,4 +1,5 @@
 % Open Scripts Project Shortcut
 cd( fileparts( mfilename( "fullpath" ) ) )
-files = flip( string( ls( "*.mlx" ) ) );
+files = dir( "*.mlx" );
+files = {files.name};
 edit( files{:} )
