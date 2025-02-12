@@ -2,9 +2,13 @@
 
 This app uses computer vision point tracking to quantify near infrared signals emitted by (ICG) Indocyanine Green during fluorescence angiography.  Short overview videos of how to use this app can be found in the ["How To" Video Series for Biomedical and Pharmaceutical Applications](https://www.mathworks.com/videos/series/how-to-video-series-for-biomedical-and-pharmaceutical-applications.html).
 
-The following research in colorectal cancer was carried out using this software: ["Digital Dynamic Discrimination of Primary Colorectal Cancer using Systemic Indocyanine Green with Near-infrared Endoscopy"](https://rdcu.be/clDRi) by Jeffrey Dalli et al., UCD Centre for Precision Surgery, School of Medicine, University College Dublin, Ireland (2021).
+The following research in colorectal cancer was carried out using this software: 
+* ["Digital dynamic discrimination of primary colorectal cancer using systemic indocyanine green with near-infrared endoscopy"](https://www.nature.com/articles/s41598-021-90089-7) by J. Dalli et al., Scientific Reports 11, Article 11349 (2021).
+* ["Explainable endoscopic artificial intelligence method for real-time in situ significant rectal lesion characterization: a prospective cohort study"](https://journals.lww.com/international-journal-of-surgery/fulltext/2025/02000/explainable_endoscopic_artificial_intelligence.57.aspx) by N. Hardy et al., International Journal of Surgery 111(2):p 2313-2316 (2025).
 
-This research is also highlighted in the article ["Automating Endoscopic Tissue Characterization in Cancer Patients with Computer Vision"](https://www.mathworks.com/company/newsletters/articles/automating-endoscopic-tissue-characterization-in-cancer-patients-with-computer-vision.html).
+This research is also highlighted in the following technical articles:
+* ["Automating Endoscopic Tissue Characterization in Cancer Patients with Computer Vision"](https://www.mathworks.com/company/newsletters/articles/automating-endoscopic-tissue-characterization-in-cancer-patients-with-computer-vision.html)
+* ["University College Dublin Researchers Harness Computer Vision and AI for Real-Time Biopsy-Free Cancer Discrimination"](https://www.mathworks.com/company/user_stories/advancing-real-time-cancer-diagnosis-with-ai.html)
 
 
 ## Requirements
@@ -29,7 +33,7 @@ This research is also highlighted in the article ["Automating Endoscopic Tissue 
 * Double-click on <code>AnomalyClassification.prj</code> to open the [MATLAB Project](https://www.mathworks.com/help/matlab/projects.html)
 * From the <code>PROJECTS SHORTCUTS</code> tab, select "Open How To Scripts" or "Open Webinar Scripts"
 * "How To" scripts contained in the <code>howto</code> folder:
-  * <code>FeatureTrackingUsingKLTExample.mlx</code> from [How to Detect and Track Features in a Video with MATLAB](https://www.mathworks.com/videos/series/how-to-video-series-for-biomedical-and-pharmaceutical-applications.html)
+  * <code>FeatureTrackingUsingKLTExample.mlx</code> from [How to Detect and Track Features in a Video with MATLAB](https://www.mathworks.com/videos/how-to-detect-and-track-features-in-a-video-1648706043636.html)
   * <code>ImageRegistrationExample.mlx</code> from [How to Register and Align Features in a Video with MATLAB](https://www.mathworks.com/videos/how-to-register-and-align-features-in-a-video-with-matlab-1687170979668.html)
   * <code>FluorescenceClassification.mlx</code> from [How to Develop a Machine Learning Classifier with MATLAB](https://www.mathworks.com/videos/how-to-develop-a-machine-learning-classifier-with-matlab-1687171767480.html)
 * ["Extracting Features and Classifying Anomalies using Computer Vision and Machine Learning"](https://www.mathworks.com/videos/extracting-features-and-classifying-anomalies-using-computer-vision-and-machine-learning-1714481441822.html) scripts contained in the <code>webinar</code> folder:
