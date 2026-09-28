@@ -27,7 +27,7 @@ Click the Fluorescence Tracker icon (green bulb) above to launch the app in MATL
 Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for more information.
 
 
-## Reference Examples
+## Example Scripts
 Also included are several example scripts that can be used independent of the Fluorescence Tracker app.
 
 * ["How to Detect and Track Features in a Video with MATLAB"](https://www.mathworks.com/videos/how-to-detect-and-track-features-in-a-video-1648706043636.html)
