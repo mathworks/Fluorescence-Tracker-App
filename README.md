@@ -2,6 +2,8 @@
 
 This app uses computer vision point tracking to quantify near infrared signals emitted by (ICG) Indocyanine Green during fluorescence angiography.  Short overview videos of how to use this app can be found in the ["How To" Video Series for Biomedical and Pharmaceutical Applications](https://www.mathworks.com/videos/series/how-to-video-series-for-biomedical-and-pharmaceutical-applications.html).
 
+![Fluorescence Tracker App](./app/FluorescenceTrackerApp.png "Fluorescence Tracker App")
+
 The following research in colorectal cancer was carried out using this software: 
 * ["Digital dynamic discrimination of primary colorectal cancer using systemic indocyanine green with near-infrared endoscopy"](https://www.nature.com/articles/s41598-021-90089-7) by J. Dalli et al., Scientific Reports 11, Article 11349 (2021).
 * ["Explainable endoscopic artificial intelligence method for real-time in situ significant rectal lesion characterization: a prospective cohort study"](https://journals.lww.com/international-journal-of-surgery/fulltext/2025/02000/explainable_endoscopic_artificial_intelligence.57.aspx) by N. Hardy et al., International Journal of Surgery 111(2):p 2313-2316 (2025).
@@ -18,13 +20,10 @@ This research is also highlighted in the following technical articles:
 * Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for video format requirements
 
 
-## Getting Started &nbsp; [![Fluorescence Tracker Icon](app/FluorescentBulb.png "Launch App in MATLAB Online")](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Fluorescence-Tracker-App&project=AnomalyClassification.prj&file=FluorescenceTracker.mlapp)
-
-Click the Fluorescence Tracker icon (green bulb) above to launch the app in MATLAB&reg; Online&trade;. This also installs the supporting functions/scripts and automatically opens the MATLAB Project.
-
-*Otherwise* (and in general) from MATLAB, always start by double-clicking on `AnomalyClassification.prj` to open the [MATLAB Project](https://www.mathworks.com/help/matlab/projects.html). The app can then be run (or the scripts opened) using the "SHORTCUTS" on the "PROJECT" tab of the MATLAB toolstrip.
-
-Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for more information.
+## Getting Started
+* From MATLAB, double-click on `AnomalyClassification.prj` to open the [MATLAB Project](https://www.mathworks.com/help/matlab/projects.html)
+* Use the "SHORTCUTS" on the "PROJECT" tab of the MATLAB toolstrip to run the app or open the scripts
+* Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for more information
 
 
 ## Example Scripts
