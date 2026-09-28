@@ -12,34 +12,34 @@ This research is also highlighted in the following technical articles:
 
 
 ## Requirements
-* MATLAB R2020b (or newer)
-* Image Processing Toolbox, Computer Vision Toolbox, and Statistics and Machine Learning Toolbox
-* GPU Computing as shown in webinar requires Parallel Computing Toolbox
+* MATLAB&reg; R2022a (or newer)
+* Image Processing Toolbox&trade;, Computer Vision Toolbox&trade;, and Statistics and Machine Learning Toolbox&trade;
+* GPU Computing as shown in webinar requires Parallel Computing Toolbox&trade;
 * Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for video format requirements
 
 
-## App Installation and Setup
-* Download/navigate to the installer file (<code>Fluorescence Tracker.mlappinstall</code>)
-* Double-click on the installer file
-* Click "Install" when prompted in MATLAB
-* The app will then appear in the APPS tab in MATLAB
-* The app source code can then be found in the installation folder specified by your MATLAB Add-Ons Preferences (or by querying the [app installation location](https://www.mathworks.com/help/matlab/ref/matlab.apputil.getinstalledappinfo.html))
-* Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for more information
+## Getting Started &nbsp; [![Fluorescence Tracker Icon](app/FluorescentBulb.png "Launch App in MATLAB Online")](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Fluorescence-Tracker-App&project=AnomalyClassification.prj&file=FluorescenceTracker.mlapp)
+
+Click the Fluorescence Tracker icon (green bulb) above to launch the app in MATLAB&reg; Online&trade;. This also installs the supporting functions/scripts and automatically opens the MATLAB Project.
+
+*Otherwise* (and in general) from MATLAB, always start by double-clicking on `AnomalyClassification.prj` to open the [MATLAB Project](https://www.mathworks.com/help/matlab/projects.html). The app can then be run (or the scripts opened) using the "SHORTCUTS" on the "PROJECT" tab of the MATLAB toolstrip.
+
+Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for more information.
 
 
 ## Reference Examples
-* Also included are several scripts that can be used independent of the Fluorescence Tracker App
-* Navigate to the downloaded/cloned code repository in MATLAB
-* Double-click on <code>AnomalyClassification.prj</code> to open the [MATLAB Project](https://www.mathworks.com/help/matlab/projects.html)
-* From the <code>PROJECTS SHORTCUTS</code> tab, select "Open How To Scripts" or "Open Webinar Scripts"
-* "How To" scripts contained in the <code>howto</code> folder:
-  * <code>FeatureTrackingUsingKLTExample.mlx</code> from [How to Detect and Track Features in a Video with MATLAB](https://www.mathworks.com/videos/how-to-detect-and-track-features-in-a-video-1648706043636.html)
-  * <code>ImageRegistrationExample.mlx</code> from [How to Register and Align Features in a Video with MATLAB](https://www.mathworks.com/videos/how-to-register-and-align-features-in-a-video-with-matlab-1687170979668.html)
-  * <code>FluorescenceClassification.mlx</code> from [How to Develop a Machine Learning Classifier with MATLAB](https://www.mathworks.com/videos/how-to-develop-a-machine-learning-classifier-with-matlab-1687171767480.html)
-* ["Extracting Features and Classifying Anomalies using Computer Vision and Machine Learning"](https://www.mathworks.com/videos/extracting-features-and-classifying-anomalies-using-computer-vision-and-machine-learning-1714481441822.html) scripts contained in the <code>webinar</code> folder:
-  * <code>Part1_ExtractingFeatures.mlx</code>
-  * <code>Part2_ClassifyingAnomalies.mlx</code>
-  * <code>AnomalyClassifier.mlapp</code>
+Also included are several example scripts that can be used independent of the Fluorescence Tracker app.
+
+* ["How to Detect and Track Features in a Video with MATLAB"](https://www.mathworks.com/videos/how-to-detect-and-track-features-in-a-video-1648706043636.html)
+  * `howto/FeatureTrackingUsingKLTExample.mlx`
+* ["How to Register and Align Features in a Video with MATLAB"](https://www.mathworks.com/videos/how-to-register-and-align-features-in-a-video-with-matlab-1687170979668.html)
+  * `howto/ImageRegistrationExample.mlx`
+* ["How to Develop a Machine Learning Classifier with MATLAB"](https://www.mathworks.com/videos/how-to-develop-a-machine-learning-classifier-with-matlab-1687171767480.html)
+  * `howto/FluorescenceClassification.mlx`
+* ["Extracting Features and Classifying Anomalies using Computer Vision and Machine Learning"](https://www.mathworks.com/videos/extracting-features-and-classifying-anomalies-using-computer-vision-and-machine-learning-1714481441822.html)
+  * `webinar/Part1_ExtractingFeatures.mlx`
+  * `webinar/Part2_ClassifyingAnomalies.mlx`
+  * `webinar/AnomalyClassifier.mlapp`
 
 
 ## References
