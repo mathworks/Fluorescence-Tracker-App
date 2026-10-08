@@ -56,4 +56,4 @@ Also included are several example scripts that can be used independent of the Fl
 
 [![View Fluorescence Tracker App on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/89679-fluorescence-tracker-app)
 
-_Copyright 2021-2024 The MathWorks, Inc._
+_Copyright 2021-2026 The MathWorks, Inc._
