@@ -20,7 +20,7 @@ This research is also highlighted in the following technical articles:
 * Please see the [Fluorescence Tracker App User Guide](https://github.com/mathworks/Fluorescence-Tracker-App/blob/main/FluorescenceTrackerUserGuide.pdf) for video format requirements
 
 
-## Getting Started &nbsp; [![Fluorescence Tracker Icon](app/FluorescentBulb.png "Launch App in MATLAB Online")](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Fluorescence-Tracker-App&project=AnomalyClassification.prj&file=app/FluorescenceTracker.mlapp)
+## Getting Started &nbsp; [![Fluorescence Tracker Icon](app/FluorescentBulb.png "Launch App in MATLAB Online")](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Fluorescence-Tracker-App&project=AnomalyClassification.prj&file=app/@FluorescenceTracker/FluorescenceTracker.mlapp)
 
 Click the Fluorescence Tracker (green bulb) icon above to launch the app in MATLAB&reg; Online&trade;. This also installs the supporting functions/scripts and automatically opens the MATLAB Project.
 
